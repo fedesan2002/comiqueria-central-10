@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Kagurabachi Vol. 1",
+    "precio": 15500,
+    "categoria": "Manga",
+    "stock": 8,
+    "imagen": "assets/portadas/kagurabachi-01.jpg",
+    "editorial": "Ivrea",
+    "enlaceEditorial": "https://www.ivrea.com.ar/titulo/kagurabachi/"
+  },
+  {
+    "id": 2,
+    "nombre": "Dandadan Vol. 1",
+    "precio": 15500,
+    "categoria": "Manga",
+    "stock": 6,
+    "imagen": "assets/portadas/dandadan-01.jpg",
+    "editorial": "Ivrea",
+    "enlaceEditorial": "https://www.ivrea.com.ar/titulo/dandadan/"
+  },
+  {
+    "id": 3,
+    "nombre": "Chainsaw Man Vol. 1",
+    "precio": 15800,
+    "categoria": "Manga",
+    "stock": 7,
+    "imagen": "assets/portadas/chainsaw-man-01.jpg",
+    "editorial": "Ivrea",
+    "enlaceEditorial": "https://www.ivrea.com.ar/titulo/chainsaw-man/"
+  },
+  {
+    "id": 4,
+    "nombre": "One Piece Vol. 1",
+    "precio": 15900,
+    "categoria": "Manga",
+    "stock": 10,
+    "imagen": "assets/portadas/one-piece-01.jpg",
+    "editorial": "Ivrea",
+    "enlaceEditorial": "https://www.ivrea.com.ar/titulo/one-piece/"
+  },
+  {
+    "id": 5,
+    "nombre": "Sakamoto Days Vol. 1",
+    "precio": 15500,
+    "categoria": "Manga",
+    "stock": 5,
+    "imagen": "assets/portadas/sakamoto-days-01.jpg",
+    "editorial": "Ivrea",
+    "enlaceEditorial": "https://www.ivrea.com.ar/titulo/sakamoto-days/"
+  },
+  {
+    "id": 6,
+    "nombre": "Blue Lock Vol. 1",
+    "precio": 15500,
+    "categoria": "Manga",
+    "stock": 6,
+    "imagen": "assets/portadas/blue-lock-01.jpg",
+    "editorial": "Ivrea",
+    "enlaceEditorial": "https://www.ivrea.com.ar/titulo/blue-lock/"
+  },
+  {
+    "id": 7,
+    "nombre": "Watchmen",
+    "precio": 35000,
+    "categoria": "Cómic",
+    "stock": 4,
+    "imagen": "assets/portadas/watchmen.webp",
+    "editorial": "OVNI Press",
+    "enlaceEditorial": "https://www.ovnipress.net/productos/watchmen/"
+  },
+  {
+    "id": 8,
+    "nombre": "Batman: No Man's Land — Cataclismo Parte 1",
+    "precio": 30000,
+    "categoria": "Cómic",
+    "stock": 3,
+    "imagen": "assets/portadas/batman-no-mans-land-cataclismo-01.webp",
+    "editorial": "OVNI Press",
+    "enlaceEditorial": "https://www.ovnipress.net/productos/batman-no-mans-land-cataclismo-parte-1-7r2mf/"
+  },
+  {
+    "id": 9,
+    "nombre": "Absolute Wonder Woman Vol. 1",
+    "precio": 26000,
+    "categoria": "Cómic",
+    "stock": 4,
+    "imagen": "assets/portadas/absolute-wonder-woman-01.webp",
+    "editorial": "OVNI Press",
+    "enlaceEditorial": "https://www.ovnipress.net/productos/absolute-wonder-woman-vol-1/"
+  }
+]
