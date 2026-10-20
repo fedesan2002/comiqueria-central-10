@@ -2,10 +2,6 @@
 
 Entrega de JavaScript: Pre-Entrega 10 — APIs, Peticiones y Librerías.
 
-Catálogo web interactivo de manga y cómics. La interfaz se genera desde un
-array de objetos `Producto` y permite buscar, filtrar, sumar títulos al
-catálogo y administrar un carrito de compra sin recargar la página.
-
 ## Funcionalidades
 
 - Carga inicial del catálogo desde `data.json` mediante `fetch()` y `async/await`.
@@ -148,7 +144,3 @@ reintentar.
    delete window.setItemOriginal;
    ```
 
-## Entrega en GitHub
-
-Subí el contenido de esta carpeta a un repositorio público. `index.html` debe
-quedar junto a `data.json`, `js/`, `css/` y `assets/`. Entregá el enlace del repositorio.
