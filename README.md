@@ -1,6 +1,6 @@
 # Comiquería Central
 
-Entrega de JavaScript: Pre-Entrega 10 — APIs, Peticiones y Librerías.
+
 
 ## Funcionalidades
 
